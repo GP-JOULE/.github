@@ -1,6 +1,6 @@
 # GP Joule #Trust-Your-Energy
-GP JOULE ist als integrierter Energieversorger in allen Bereichen der Energie-Wertschöpfungskette aktiv: von der Erzeugung bis zur Nutzung – und von der Beratung über die Finanzierung und Projektierung bis zum Bau und Service. GP JOULE produziert und vermarktet Wind- und Solarstrom, grünen Wasserstoff und Wärme und setzt die Energie dort ein, wo es am effektivsten ist: in der Elektro- und Wasserstoffmobilität, in Haushalten und in der Industrie. So gestaltet GP JOULE aus Deutschland heraus seit 2009 das Energiesystem mit Zukunft in Europa. Für eine sichere, unabhängige und nachhaltige Energieversorgung. Für 100% Erneuerbare Energien für alle.
+100% renewables energies for all. That is the GP JOULE vision. That is what drives us. To achieve this, we create and operate sustainable, reliable energy solutions with tangible benefits - and always keep the entire energy system in mind. With the aim of delivering a secure, independent and sustainable supply of energy.
 
 [Website](https://www.gp-joule.com/)
 
-[Offene Stellen](https://www.gp-joule.com/en/karriere/einstiegsmoeglichkeiten)
+[Job listings](https://www.gp-joule.com/en/karriere/einstiegsmoeglichkeiten)
