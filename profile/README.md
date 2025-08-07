@@ -6,4 +6,4 @@
 [**Find out more**](https://www.gp-joule.com/en/company/about-us)
 
 ## We are hiring!
-[**Job listings**](https://www.gp-joule.com/en/career/working-at-gp-joule)
+[**Job listings**](https://jobs.gp-joule.com/)
